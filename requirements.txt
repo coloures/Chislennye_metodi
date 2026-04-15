@@ -1,3 +1,6 @@
 numdifftools
 ipykernel
 scipy
+sympy
+matplotlib
+pandas
